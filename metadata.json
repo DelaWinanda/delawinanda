@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 MQTT Relay Dashboard",
+  "description": "A voice-controlled IoT dashboard for ESP32 with DHT11 sensors and 4-channel relays, supporting multiple MQTT brokers and an interactive hardware simulator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
